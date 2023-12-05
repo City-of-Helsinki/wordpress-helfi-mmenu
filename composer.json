@@ -1,15 +1,10 @@
 {
   "name": "mmenujs/mmenu",
   "type": "wordpress-plugin",
-	"version": "master",
   "authors": [
     {
       "name": "mmenujs",
       "email": "info@mmenujs.com"
     }
-	],
-	"require": {
-    "wecodemore/wpstarter": "~2.0",
-    "johnpbloch/wordpress-core": ">5.0"
-  }
+  ]
 }
